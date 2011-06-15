@@ -41,7 +41,7 @@
    "provides" : {
       "App::Mowyw" : {
          "file" : "lib/App/Mowyw.pm",
-         "version" : "v0.7.0"
+         "version" : "v0.7.1"
       },
       "App::Mowyw::Datasource" : {
          "file" : "lib/App/Mowyw/Datasource.pm",
@@ -70,5 +70,5 @@
          "http://www.perlfoundation.org/artistic_license_2_0"
       ]
    },
-   "version" : "v0.7.0"
+   "version" : "v0.7.1"
 }
